@@ -18,7 +18,7 @@ Add HuggingFaceHub API Token to your enviroment variables file .env
 HUGGINGFACEHUB_API_TOKEN = YOUR_API_KEY
 ```
 
-## Run
+## Run the App
 
 Run app.py through Streamlit
 
